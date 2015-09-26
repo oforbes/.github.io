@@ -1,0 +1,21 @@
+html,body{font-family: Arial;}
+
+html{background-color: aliceblue}
+
+.namediv{border-bottom: 1px solid; width: 60%; height: 45px;margin-left: auto; margin-right: auto;}
+
+.name{vertical-align:bottom; font-size: 40px}
+
+.main{width: 60%; height: 1100px; border: 0px solid; margin-left: auto; margin-right: auto; position: relative}
+
+.contact{position: absolute;top: 8px;width: 490px;height: 200px;border: 0px solid;}
+
+.photo{position: absolute;top: -40px;right: 0;width: 330px;height: 230px;border: 0px solid;background-color: white}
+
+.edu{border-right:1px solid; width:150px; height: 120px; margin-left: 40px;float:left}
+
+.edu1{width:450px; height: 120px; margin-left: 10px;float:left}
+
+.sections{font-size: 18px;margin-top:10px}
+
+.section{font-size: 16px;margin-top:5px}
